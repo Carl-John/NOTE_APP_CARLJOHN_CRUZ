@@ -8,5 +8,6 @@
     "start": "node app"
   },
   "author": "Carl John",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": []
 }
